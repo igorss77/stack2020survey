@@ -26,9 +26,8 @@ Therefore the follow question was answered:
 * matplotlib==3.3.2
 
 # Medium post
-The link of the post is my medium blogpost, feel free to send any comments! 
-https://ssantos-igor.medium.com/a-look-at-stackoverflow-survey-2020-88b6c91197a0
+This is the [link](https://ssantos-igor.medium.com/a-look-at-stackoverflow-survey-2020-88b6c91197a0) of the post is my medium blogpost, feel free to send any comments! 
+
 
 # Acknowledgements
-I appreciate the open data available on Stack Overflow.
-https://insights.stackoverflow.com/survey/2020
+I appreciate the open data available on [Stack Overflow](https://insights.stackoverflow.com/survey/2020)
